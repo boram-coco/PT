@@ -1,5 +1,5 @@
 ---
-title: "PT"
+title: "Probabaility Theory"
 listing:
   contents: posts
   sort: 
@@ -14,3 +14,8 @@ title-block-banner: true
 ---
 
 
+- guebin Choi, Professor of Statistics, Jeonbuk National University
+
+- 1st semester, 2023
+
+- [github](https://guebin.github.io/AP2023/)
